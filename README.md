@@ -20,4 +20,4 @@ This project is a responsive clone of Discord, allowing users to chat, join comm
 <h3>Getting Started</h3>
 
 1. Clone the repository:
-   git clone: https://github.com/DevBhalgamiya/responsive-discord-clone.git
+   git clone: https://github.com/DevBhalgamiya/Discord_Clone/tree/main
